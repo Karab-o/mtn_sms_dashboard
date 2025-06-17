@@ -55,3 +55,4 @@ Opened our terminal and execute:
 git clone git@github.com:eldrige/MoMo_Stat_App.git
 cd MoMo_Stat_App
 
+LINK: https://drive.google.com/file/d/1X08J49sHnN5X5bB-ASs3NRj7Wh1cW-PK/view?usp=drive_link
